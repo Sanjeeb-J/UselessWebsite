@@ -171,3 +171,8 @@ document.getElementById("user-input").addEventListener("keypress", function(even
         sendMessage();
     }
 });
+
+// Function to clear the chat history
+function clearChat() {
+    document.getElementById("chat-box").innerHTML = "";
+}

@@ -17,11 +17,11 @@ const responses = [
     "I'm rolling my virtual eyes over here. Just so you know.",
     "You got this! Keep making sense (or not). I'm here for it.",
     "Wow, groundbreaking. Got anything else?",
-    "You’re unstoppable... like a train with no brakes and no destination.",
-    "Here’s my advice: Go outside. Talk to people. Leave me alone!",
-    "I’m here to help. Or annoy. Whichever works best for you.",
+    "You're unstoppable... like a train with no brakes and no destination.",
+    "Here's my advice: Go outside. Talk to people. Leave me alone!",
+    "I'm here to help. Or annoy. Whichever works best for you.",
     "You're STILL here? What are you, my biggest fan?",
-    "Let me guess, you're back because I’m just *that* amazing?"
+    "Let me guess, you're back because I'm just *that* amazing?"
 ];
 
 // Function to get a random annoying response

@@ -64,7 +64,7 @@ h1 {
 
 .user-bubble {
     align-self: flex-end;
-    background: linear-gradient(135deg, #74ebd5, #9face6);
+    background: linear-gradient(135deg, #85c2d1c7, #dbdfe2c4);
     color: #333;
     text-align: right;
     border-bottom-right-radius: 5px;
@@ -72,8 +72,8 @@ h1 {
 
 .bot-bubble {
     align-self: flex-start;
-    background: linear-gradient(135deg, #f093fb, #f5576c);
-    color: #fff;
+    background: linear-gradient(135deg, #ff7676, #fa6464);
+    color:black;
     border-bottom-left-radius: 5px;
 }
 
@@ -102,7 +102,7 @@ input[type="text"]:focus {
 
 button {
     padding: 12px;
-    background: linear-gradient(135deg, #f6d365, #fda085);
+    background:rgba(78, 78, 218, 0.712);
     color: white;
     font-size: 16px;
     font-weight: bold;

@@ -139,6 +139,11 @@
       chatbox.innerHTML += `<p><strong>UselessBot:</strong> ${randomResponse}</p>`;
       document.getElementById("userInput").value = ""; // Clear input
     }
+    function handleKeyPress(event) {
+      if (event.key === "Enter") {
+        getBotResponse();
+      }
+    }
   </script>
 </body>
 </html>

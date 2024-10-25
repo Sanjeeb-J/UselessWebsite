@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Useless Chatbot</title>
+</head>
+<body>
+  <h2>Talk to UselessBot!</h2>
+  <input type="text" id="userInput" placeholder="Type something...">
+  <button onclick="getBotResponse()">Send</button>
+  <div id="chatbox"></div>
+
+  <script>
+    const responses = [
+      "I'm not sure, but have you tried asking the moon?",
+      "Why do you need to know that? It’s a mystery to me.",
+      "I was just thinking about that! Actually, no, I wasn't.",
+      "Maybe try flipping a coin, that’s what I would do.",
+      "42. Always 42.",
+      "I’m too busy contemplating the meaning of nothing."
+    ];
+
+    function getBotResponse() {
+      const userText = document.getElementById("userInput").value;
+      const randomResponse = responses[Math.floor(Math.random() * responses.length)];
+      const chatbox = document.getElementById("chatbox");
+
+      chatbox.innerHTML += `<p><strong>You:</strong> ${userText}</p>`;
+      chatbox.innerHTML += `<p><strong>UselessBot:</strong> ${randomResponse}</p>`;
+      document.getElementById("userInput").value = ""; // Clear input
+    }
+  </script>
+</body>
+</html>

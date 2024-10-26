@@ -177,56 +177,6 @@ function clearChat() {
     document.getElementById("chat-box").innerHTML = "";
 }
 
-
-
-function checkEasterEgg(userInput) {
-    if (userInput.toLowerCase() === "tell me a secret") {
-        return "I'm secretly a world-class chef... in my dreams! 👨‍🍳";
-    }
-    return null;
-}
-
-// Function to get a random annoying response
-function getResponse() {
-    const randomIndex = Math.floor(Math.random() * responses.length);
-    return responses[randomIndex];
-}
-
-// Function to handle sending a message
-function sendMessage() {
-    const userInput = document.getElementById("user-input").value;
-    if (userInput.trim() === "") return;
-
-    // Add user's message to chat as a bubble
-    const chatBox = document.getElementById("chat-box");
-    chatBox.innerHTML += <div class="chat-bubble user-bubble"><strong>You:</strong> ${userInput}</div>;
-
-    // Get a response from the chatbot and display it
-    const botResponse = getResponse();
-    chatBox.innerHTML += <div class="chat-bubble bot-bubble"><strong>Bot:</strong> ${botResponse}</div>;
-
-    // Clear input field
-    document.getElementById("user-input").value = "";
-
-    // Scroll chat to the bottom
-    chatBox.scrollTop = chatBox.scrollHeight;
-}
-
-// Event listener for Enter key to send message
-document.getElementById("user-input").addEventListener("keypress", function(event) {
-    if (event.key === "Enter") {
-        event.preventDefault(); // Prevent newline from being added
-        sendMessage();
-    }
-});
-
-// Function to clear the chat history
-function clearChat() {
-    document.getElementById("chat-box").innerHTML = "";
-}
-
-
-
 function checkEasterEgg(userInput) {
     if (userInput.toLowerCase() === "tell me a secret") {
         return "I'm secretly a world-class chef... in my dreams! 👨‍🍳";

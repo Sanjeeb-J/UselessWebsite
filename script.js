@@ -151,11 +151,11 @@ function sendMessage() {
 
     // Add user's message to chat as a bubble
     const chatBox = document.getElementById("chat-box");
-    chatBox.innerHTML += `<div class="chat-bubble user-bubble"><strong>You:</strong> ${userInput}</div>`;
+    chatBox.innerHTML += <div class="chat-bubble user-bubble"><strong>You:</strong> ${userInput}</div>;
 
     // Get a response from the chatbot and display it
     const botResponse = getResponse();
-    chatBox.innerHTML += `<div class="chat-bubble bot-bubble"><strong>Bot:</strong> ${botResponse}</div>`;
+    chatBox.innerHTML += <div class="chat-bubble bot-bubble"><strong>Bot:</strong> ${botResponse}</div>;
 
     // Clear input field
     document.getElementById("user-input").value = "";
@@ -171,3 +171,15 @@ document.getElementById("user-input").addEventListener("keypress", function(even
         sendMessage();
     }
 });
+
+// Function to clear the chat history
+function clearChat() {
+    document.getElementById("chat-box").innerHTML = "";
+}
+
+function checkEasterEgg(userInput) {
+    if (userInput.toLowerCase() === "tell me a secret") {
+        return "I'm secretly a world-class chef... in my dreams! 👨‍🍳";
+    }
+    return null;
+}

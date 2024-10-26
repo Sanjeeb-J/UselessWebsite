@@ -1,38 +1,39 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# Annoying Chatbot
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Debug
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sanjeeb J - Government College of Engineering Kannur
+- Member 2: Karthik S - Government College of Engineering Kannur
+- Member 3: Arjav P - Government College of Engineering Kannur
 
 ### Project Description
-[2-3 lines about what your project does]
+Our project is a Funny and Annoying Chatbot Web Application that entertains users through humorous, sarcastic, and overly enthusiastic responses. Designed with vibrant visuals, dynamic quotes, and interactive features, the chatbot keeps users engaged in a playful chat experience, blending tech with humor.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+This project tackles the "serious" problem of boredom. With the Funny and Annoying Chatbot, we’re solving the issue of dull online interactions by providing users with an absurdly sassy AI companion who has a knack for sarcastic encouragement and not-so-helpful responses. It’s perfect for those moments when you need a laugh, a little lighthearted annoyance, or just a break from real, useful advice!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We’re solving this “problem” by unleashing a chatbot that’s more dramatic than a reality TV star and as helpful as a broken compass! Armed with sarcastic, overly enthusiastic responses, and the personality of a grumpy comedian, this bot is here to humorously engage (or annoy!) you with its eye-rolling, “did you really just ask me that?” attitude. You’ll laugh, maybe roll your own eyes, and definitely wonder if this is really the best use of AI… (Spoiler: it is!)
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages used
+- HTML, CSS, JavaScript
+Frameworks used
+-The project is built with vanilla HTML, CSS, and JavaScript for simplicity and lightweight performance.
+Libraries used
+- No libraries are used
+Tools used
+- Code Editor: Visual Studio Code or any other preferred code editor.
+- Browser Developer Tools: For testing and debugging.
+- GitHub Pages: To host the chatbot webpage online.
 
 ### Implementation
 For Software:

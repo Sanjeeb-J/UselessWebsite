@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Sanjeeb J - Government College of Engineering Kannur
+- Member 2: Karthik S - Government College of Engineering Kannur
+- Member 3: Arjav P - Government College of Engineering Kannur
 
 ### Project Description
 [2-3 lines about what your project does]

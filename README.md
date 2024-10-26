@@ -62,26 +62,26 @@ This project uses HTML, CSS, and JavaScript to create a fun and interactive chat
 This is the homepage of the "Annoying Chatbot" web application, where users can type messages to interact with a chatbot. The page has a simple and clean design with a gradient background and a central message input box.
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/1debug.png">
 
-
+The initial screen displays a clean and user-friendly interface with a message input box and a "Send" button, inviting users to start a conversation with the "Annoying Chatbot."
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/2debug.png">
 
-The chatbot responds with humorous, deflective messages, playfully avoiding direct answers to user questions.
+The chatbot responds with humorous, deflective messages.
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/3debug.png">
 
-
+The user is typing a follow-up question
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/4debug.png">
 
-
+The chatbot avoiding direct answers to user questions and responds with humorous, deflective messages.
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/5debug.png">
 
 ### Project Demo
 # Video
-<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot"></video>
+[<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot"></video>](https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing)
 *Explain what the video demonstrates*
 
 ## Team Contributions
 - Sanjeeb J: Website developer + Team coordinator 
-- Karthik S: Website designer
+- Karthik S: Website designer + Researcher
 - Arjav P: Website designer 
 
 ---

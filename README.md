@@ -16,10 +16,10 @@
 Our project is a Funny and Annoying Chatbot Web Application that entertains users through humorous, sarcastic, and overly enthusiastic responses. Designed with vibrant visuals, dynamic quotes, and interactive features, the chatbot keeps users engaged in a playful chat experience, blending tech with humor.
 
 ### The Problem (that doesn't exist)
-This project tackles the "serious" problem of boredom. With the Funny and Annoying Chatbot, we’re solving the issue of dull online interactions by providing users with an absurdly sassy AI companion who has a knack for sarcastic encouragement and not-so-helpful responses. It’s perfect for those moments when you need a laugh, a little lighthearted annoyance, or just a break from real, useful advice!
+This project tackles the "serious" problem of boredom. With the Funny and Annoying Chatbot, we're solving the issue of dull online interactions by providing users with an absurdly sassy AI companion who has a knack for sarcastic encouragement and not-so-helpful responses. It's perfect for those moments when you need a laugh, a little lighthearted annoyance, or just a break from real, useful advice!
 
 ### The Solution (that nobody asked for)
-We’re solving this “problem” by unleashing a chatbot that’s more dramatic than a reality TV star and as helpful as a broken compass! Armed with sarcastic, overly enthusiastic responses, and the personality of a grumpy comedian, this bot is here to humorously engage (or annoy!) you with its eye-rolling, “did you really just ask me that?” attitude. You’ll laugh, maybe roll your own eyes, and definitely wonder if this is really the best use of AI… (Spoiler: it is!)
+We're solving this “problem” by unleashing a chatbot that's more dramatic than a reality TV star and as helpful as a broken compass! Armed with sarcastic, overly enthusiastic responses, and the personality of a grumpy comedian, this bot is here to humorously engage (or annoy!) you with its eye-rolling, “did you really just ask me that?” attitude. You'll laugh, maybe roll your own eyes, and definitely wonder if this is really the best use of AI… (Spoiler: it is!)
 
 ## Technical Details
 ### Technologies/Components Used
@@ -57,28 +57,32 @@ This project uses HTML, CSS, and JavaScript to create a fun and interactive chat
 - style.css: Contains styles for the chatbot interface, including themes and layout.
 - script.js: The logic for generating chatbot responses, handling user interactions, and updating the UI.
 
-# Screenshots (Add at least 3)
+# Screenshots
+
+This is the homepage of the "Annoying Chatbot" web application, where users can type messages to interact with a chatbot. The page has a simple and clean design with a gradient background and a central message input box.
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/1debug.png">
-*Add caption explaining what this shows*
+
 
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/2debug.png">
-*Add caption explaining what this shows*
 
+The chatbot responds with humorous, deflective messages, playfully avoiding direct answers to user questions.
 <img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/3debug.png">
-*Add caption explaining what this shows*
+
+
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/4debug.png">
+
+
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/5debug.png">
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot"></video>
 *Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
-
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Sanjeeb J: Website developer + Team coordinator 
+- Karthik S: Website designer
+- Arjav P: Website designer 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 

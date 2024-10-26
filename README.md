@@ -38,46 +38,34 @@ Tools used
 ### Implementation
 For Software:
 # Installation
-[commands]
+Since this is a website project using HTML, CSS, and JavaScript, there is no complex installation required.
+
+1. You can directly access our website
+Link: https://sanjeeb-j.github.io/UselessWebsite/
+
+2. Clone the Repository: 
+git clone https://github.com/Sanjeeb-J/UselessWebsite.git
 
 # Run
-[commands]
+You can directly access our website
+Link: https://sanjeeb-j.github.io/UselessWebsite/
 
 ### Project Documentation
 For Software:
+This project uses HTML, CSS, and JavaScript to create a fun and interactive chatbot. The code is structured as follows:
+- index.html: The main structure of the chatbot UI.
+- style.css: Contains styles for the chatbot interface, including themes and layout.
+- script.js: The logic for generating chatbot responses, handling user interactions, and updating the UI.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/1debug.png">
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/2debug.png">
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+<img width="1280" alt="readme-banner" src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Screenshots/3debug.png">
 *Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video

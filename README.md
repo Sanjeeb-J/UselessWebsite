@@ -24,13 +24,13 @@ We're solving this “problem” by unleashing a chatbot that's more dramatic th
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-Languages used
+#### Languages used
 - HTML, CSS, JavaScript
-Frameworks used
+#### Frameworks used
 -The project is built with vanilla HTML, CSS, and JavaScript for simplicity and lightweight performance.
-Libraries used
+#### Libraries used
 - No libraries are used
-Tools used
+#### Tools used
 - Code Editor: Visual Studio Code or any other preferred code editor.
 - Browser Developer Tools: For testing and debugging.
 - GitHub Pages: To host the chatbot webpage online.

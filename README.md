@@ -76,7 +76,7 @@ The chatbot responds with humorous, deflective messages, playfully avoiding dire
 
 ### Project Demo
 # Video
-<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot"></video>
+<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot">
 *Explain what the video demonstrates*
 
 ## Team Contributions

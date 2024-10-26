@@ -27,7 +27,7 @@ For Software:
 #### Languages used
 - HTML, CSS, JavaScript
 #### Frameworks used
--The project is built with vanilla HTML, CSS, and JavaScript for simplicity and lightweight performance.
+- The project is built with vanilla HTML, CSS, and JavaScript for simplicity and lightweight performance.
 #### Libraries used
 - No libraries are used
 #### Tools used

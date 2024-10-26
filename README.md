@@ -76,7 +76,8 @@ The chatbot avoiding direct answers to user questions and responds with humorous
 
 ### Project Demo
 # Video
-[<video controls src="https://github.com/Sanjeeb-J/UselessWebsite/blob/main/Demo/Chatbot.mp4" title="Annoying Chatbot"></video>](https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing)
+https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing
+(https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing)
 *Explain what the video demonstrates*
 
 ## Team Contributions

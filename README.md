@@ -76,9 +76,8 @@ The chatbot avoiding direct answers to user questions and responds with humorous
 
 ### Project Demo
 # Video
+Our demo video gives a brief working of our Annoying Chatbot
 https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing
-(https://drive.google.com/file/d/1-T-hNKHC4RPBkzVZHOuPjxtCP8iLtIMT/view?usp=sharing)
-*Explain what the video demonstrates*
 
 ## Team Contributions
 - Sanjeeb J: Website developer + Team coordinator 
